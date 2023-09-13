@@ -1,0 +1,30 @@
+{
+    "stats": [
+      {
+        "title": "Total Orders",
+        "value": 100
+      },
+      {
+        "title": "Revenue",
+        "value": "$10,000"
+      },
+      {
+        "title": "Customers",
+        "value": 50
+    },
+    {
+        "title": "Average Order Value",
+        "value": "$100"
+      },
+      {
+        "title": "Products Sold",
+        "value": 300
+      },
+      {
+        "title": "New Customers",
+        "value": 20
+      },
+      {
+        "title": "Returns",
+        "value": 5
+      }]}
